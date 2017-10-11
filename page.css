@@ -1,0 +1,39 @@
+﻿.page-ctrl {
+    float: right;
+    margin: 10px 10px;
+}
+
+    .page-ctrl span, page-ctrl a {
+        display: inline-block;        
+        line-height: 30px;
+    }
+
+    .page-ctrl .page-pre, .page-ctrl .page-next {
+        width: 30px;
+        height: 30px;
+        background-color: #ececec;
+        text-align: center;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        cursor: pointer;
+    }
+    
+        .page-ctrl  input {
+            width: 38px;
+            text-align: center;
+            height: 26px;
+            border: 1px solid #d0d0d0;
+        }
+
+    .page-ctrl .page-list {
+        padding: 0 5px;
+    }
+
+    .page-ctrl .page-btn {
+        background-color: #ececec;
+        color: #000000;
+        padding: 0 5px;
+        text-align: center;
+        height:28px;
+    }
