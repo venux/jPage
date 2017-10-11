@@ -1,9 +1,9 @@
 # jPage
 A Simple jQuery Page Plugin
 
-## 1.引用page.js,page.css文件
+## 1.Import `page.js`,`page.css`
 
-## 2.代码示例
+## 2.Example
 
 ```javascript
 var $ctrl=$("#page");
